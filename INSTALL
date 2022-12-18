@@ -1,0 +1,2 @@
+ln -vs /pentest/02/joomscan/joomscan.pl /usr/bin/joomscan.pl
+ln -vs /pentest/02/joomscan/joomscan.pl /usr/bin/joomscan
